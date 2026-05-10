@@ -45,3 +45,10 @@ Random Forest Classifier
 - Real-time NASA API integration
 - Deep learning models
 - Space mission dashboard
+
+## Future Scope
+
+- Real-time NASA mission data integration  
+- Deep learning models  
+- Space mission recommendation engine  
+- Dashboard for mission planning
