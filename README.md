@@ -52,3 +52,16 @@ Random Forest Classifier
 - Deep learning models  
 - Space mission recommendation engine  
 - Dashboard for mission planning
+
+- ## Results
+
+- Final Model Accuracy: **92%**
+- Successfully predicted space mission outcomes using machine learning techniques
+- Built data visualizations to identify mission success trends
+- Developed predictive insights from historical aerospace datasets
+
+### Key Findings
+- Payload weight influenced mission outcomes
+- Launch vehicle selection impacted mission reliability
+- Historical mission patterns improved prediction accuracy
+
